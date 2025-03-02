@@ -22,11 +22,11 @@ A simple blogging platform where users can create, share, and explore blog posts
 
 1. **Clone the Repository**  
    ```sh
-   git clone https://github.com/your-username/blog-platform.git
+   git clone https://github.com/your-username/blog-platform-with-markdown-support-and-theme-customization.git
    ```
 2. **Navigate to the Project Directory**  
    ```sh
-   cd blog-platform
+   cd blog-platform-with-markdown-support-and-theme-customization
    ```
 3. **Run the Application**  
    - Open `index.html` in your browser.  
